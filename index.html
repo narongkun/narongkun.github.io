@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+    <head>
+        <title>NaRongkun</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <script>
+                (function(){
+                  var redirect = sessionStorage.redirect;
+                  delete sessionStorage.redirect;
+                  if (redirect && redirect != location.href) {
+                    history.replaceState(null, null, redirect);
+                  }
+                })();
+        </script>
+    <link href="/assets/styles.05eb3ab351c1445cf3db.css" rel="stylesheet"></head>
+    <body>
+        <div id="app"></div>
+    <script type="text/javascript" src="/assets/index.05eb3ab351c1445cf3db.js"></script></body>
+</html>
