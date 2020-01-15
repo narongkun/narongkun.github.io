@@ -2,41 +2,6 @@ body {
   overflow-x: auto;
   overflow-y: scroll;
 }
-.src-components-Home-Detail__detail--bB02O {
-  width: 100%;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-bottom: 30px;
-  font-size: 16px;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV > a {
-  margin-right: 10px;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV > span {
-  margin-left: 10px;
-  font-size: 18px;
-  font-weight: bold;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i img {
-  display: block;
-  width: 100%;
-  height: auto;
-  max-width: 700px;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i .src-components-Home-Detail__title--3B2zG {
-  margin-top: 10px;
-  color: #666;
-  font-size: 14px;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i + .src-components-Home-Detail__item--1Kt3i {
-  margin-top: 40px;
-}
-.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__more--J4z3z {
-  margin-top: 40px;
-}
 .src-components-Home-index__logo--2ud_A {
   width: 100%;
   display: flex;
@@ -128,6 +93,41 @@ body {
 }
 .src-components-App-styles__app--1XWGp {
   overflow: auto;
+}
+.src-components-Home-Detail__detail--bB02O {
+  width: 100%;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV > a {
+  margin-right: 10px;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__header--nDopV > span {
+  margin-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i .src-components-Home-Detail__title--3B2zG {
+  margin-top: 10px;
+  color: #666;
+  font-size: 14px;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__item--1Kt3i + .src-components-Home-Detail__item--1Kt3i {
+  margin-top: 40px;
+}
+.src-components-Home-Detail__detail--bB02O .src-components-Home-Detail__content--34CwA .src-components-Home-Detail__more--J4z3z {
+  margin-top: 40px;
 }
 
 /*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMuMGRlNzIwYTIwODAyZWQwMTA3OWYuY3NzIiwic291cmNlUm9vdCI6IiJ9*/
